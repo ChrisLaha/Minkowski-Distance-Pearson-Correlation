@@ -8,3 +8,7 @@
 ![manhattan](https://github.com/ChrisLaha/Minkowski-Distance-Pearson-Correlation/blob/main/Images/manhattan.png?raw=true)
 * Euclidean distance is the straight line distance between two data points in a plane. 
 ![euclidean](https://github.com/ChrisLaha/Minkowski-Distance-Pearson-Correlation/blob/main/Images/euclidean.png?raw=true)
+
+
+Outputs:
+![output](https://github.com/ChrisLaha/Minkowski-Distance-Pearson-Correlation/blob/main/Images/output.png?raw=true)
